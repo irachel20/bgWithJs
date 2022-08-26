@@ -1,0 +1,32 @@
+body {
+  font-family: "Josefin Sans";
+  font-size: 1.6rem;
+  padding: 2rem;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+.borders {
+  border: 0.1rem solid #34495588;
+}
+
+::placeholder {
+  opacity: 60%;
+  font-size: 1.5rem;
+}
+
+.input-color {
+  background: transparent;
+  font-size: inherit;
+  outline: none;
+}
+
+.apply-btn{
+    background-color: coral;
+}
+
+input{
+  height: 3rem;
+}
